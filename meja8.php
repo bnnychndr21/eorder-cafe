@@ -1,0 +1,1 @@
+<?php session_start(); $_SESSION['meja']=8; header('Location: index.php'); exit; ?>

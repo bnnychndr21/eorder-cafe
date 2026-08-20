@@ -1,0 +1,1 @@
+<?php session_start(); $_SESSION['meja']=1; header('Location: index.php'); exit; ?>
